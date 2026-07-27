@@ -1,0 +1,15 @@
+/workspaces/MY-BC-CNA271/CNA271-Project/bin/Debug/net8.0/CNA271
+/workspaces/MY-BC-CNA271/CNA271-Project/bin/Debug/net8.0/CNA271.deps.json
+/workspaces/MY-BC-CNA271/CNA271-Project/bin/Debug/net8.0/CNA271.runtimeconfig.json
+/workspaces/MY-BC-CNA271/CNA271-Project/bin/Debug/net8.0/CNA271.dll
+/workspaces/MY-BC-CNA271/CNA271-Project/bin/Debug/net8.0/CNA271.pdb
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/CNA271.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/CNA271.AssemblyInfoInputs.cache
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/CNA271.AssemblyInfo.cs
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/CNA271.csproj.CoreCompileInputs.cache
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/CNA271.sourcelink.json
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/CNA271.dll
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/refint/CNA271.dll
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/CNA271.pdb
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/CNA271.genruntimeconfig.cache
+/workspaces/MY-BC-CNA271/CNA271-Project/obj/Debug/net8.0/ref/CNA271.dll
